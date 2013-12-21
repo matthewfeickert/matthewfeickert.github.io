@@ -21,24 +21,24 @@ Physics, homepage"/>
 <nav>
 <!--Begin an unordered list of primary content-->
   <ul>
-    <li><a href="/~mcf2uk/www/">Home</a></li>
-    <li><a href="/~mcf2uk/www/about/">About</a></li>
-    <li><a href="/~mcf2uk/www/mfeickert-CV.pdf">CV</a></li>
-    <li><a href="/~mcf2uk/www/research/">Research</a></li>
-    <li><a href="/~mcf2uk/www/teaching/">Teaching</a></li>
-    <li><a href="/~mcf2uk/www/public/">Public</a></li>
-    <li><a href="/~mcf2uk/www/extra/">Extra</a></li>
+    <li><a href="./">Home</a></li>
+    <li><a href="./about/">About</a></li>
+    <li><a href="./mfeickert-CV.pdf">CV</a></li>
+    <li><a href="./research/">Research</a></li>
+    <li><a href="./teaching/">Teaching</a></li>
+    <li><a href="./public/">Public</a></li>
+    <li><a href="./extra/">Extra</a></li>
   </ul>
 </nav>
 
 
 <h1><u>Matthew C. Feickert</u></h1>
 
-<div id="photobox"><img src="/~images/head.jpg" id="photo" alt="Photo taken of Matthew Feickert at the Chicago Art Institute in 2011."/>
+<div id="photobox"><img src="images/head.jpg" id="photo" alt="Photo taken of Matthew Feickert at the Chicago Art Institute in 2011."/>
 <div id="photocaption">(Matthew, c. 2011)</div>
 </div>
 
-<h2><a href="/~mcf2uk/www/about/#contact">Contact</a></h2>
+<h2><a href="./about/#contact">Contact</a></h2>
 <!--
 <h2>Disclaimer</h2>
 <p>Matthew does not really know HTML, CSS, or JavaScript yet, and so this site will be used as an exercise for some time.</p>
