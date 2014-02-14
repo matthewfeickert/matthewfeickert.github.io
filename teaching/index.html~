@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html version="-//W3C//DTD XHTML 1.1//EN"
+  xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<title> Resources for Learning Physics</title>
+<link rel="stylesheet" type="text/css" href="/~/index_files/style.css"/>
+</head>
+<body>
+
+<div id="photobox"><img src="/~mcf2uk/www/images/ta_shirt.jpg" id="largephoto" alt="Photo that makes a joke about TAing."/>
+<div id="photocaption">(Source: Ph.D. Comics)</div>
+</div>
+
+<h2>UVa Courses I've TA'd For</h2>
+  <ul>
+    <li><a href="/~mcf2uk/www/teaching/phys-2630/">PHYS 2630: Elementary Laboratory I</a>
+    (physics lab for 2nd year majors)</li>
+    <li><a href="/~mcf2uk/www/teaching/phys_1620/">PHYS 1620: Introductory Physics II</a>
+    (second semester physics for majors)</li>
+    <li><a href="/~mcf2uk/www/teaching/phys-2030/">PHYS 2030: Basic Physics Laboratory I</a>
+    (classical physics lab for pre med students)</li>
+  </ul>
+
+<h2>Physics Resources</h2>
+
+<h3>Classical Mechanics</h3>
+  <ul>
+    <li><a href="http://arxiv.org/abs/0806.1147">Making Sense of the Legendre Transform</a></li>
+  </ul>
+
+<h3>Quantum Mechanics</h3>
+  <ul>
+    <li><a href="http://www.tcm.phy.cam.ac.uk/~bds10/aqp.html">Notes on Advanced Quantum Mechanics, by Professor Ben Simons</a></li>
+    <li><a href="http://arxiv.org/abs/physics/0102047v2">Complex Numbers and Physical Reality</a></li>
+    <li><a href="http://arxiv.org/abs/quant-ph/0402001">Bell's Theorem</a></li>
+  </ul>
+
+  <h3>Statistics and Probability</h3>
+  <ul>
+    <li><a href="http://arxiv.org/abs/1310.1284">Discovering the Significance of 5 sigma</a></li>
+  </ul>
+
+  <h3>Particle Physics</h3>
+  <ul>
+    <li><a href="http://www.hep.phy.cam.ac.uk/~thomson/partIIIparticles/">Notes on Particle Physics, by Professor Mark Thomson</a></li>
+    <li><a href="http://arxiv.org/abs/1207.2146">Unveiling the BEH mechanism to students</a></li>
+  </ul>
+
+  <h3>Computational Physics</h3>
+  <ul>
+    <li><a href="http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/index.html">Raymond, Eric Steven. "The Cathedral and the Bazaar"</a></li>
+  </ul>
+
+<h2>Favorite Physics Texts</h2>
+<ul>
+  <li><a href="http://www.feynmanlectures.caltech.edu/">The Feynman Lectures on Physics</a></li>
+  <li><a href="http://www.amazon.com/Introduction-Quantum-Mechanics-2nd-Edition/dp/0131118927/">Griffiths, Introduction to Quantum Mechanics (2nd Edition)</a></li>
+  <li><a href="http://www.amazon.com/Principles-Quantum-Mechanics-2nd-Edition/dp/0306447908">Shankar, Principles of Quantum Mechanics, 2nd Edition</a></li>
+  <li><a href="http://www.amazon.com/Quantum-Mechanics-2-vol-set/dp/0471569526">Cohen-Tannoudji, Diu, and Laloe, Quantum Mechanics</a></li>
+  <li><a href="http://www.amazon.com/Introduction-Electrodynamics-4th-David-Griffiths/dp/0321856562/">Griffiths, Introduction to Electrodynamics (4th Edition)</a></li>
+  <li><a href="http://www.amazon.com/Modern-Electrodynamics-Andrew-Zangwill/dp/0521896975">Zangwill, Modern Electrodynamics</a></li>
+  <li><a href="http://www.amazon.com/Introduction-Elementary-Particles-David-Griffiths/dp/3527406018/">Griffiths, Introduction to Elementary Particles</a></li>
+  <li><a href="http://www.amazon.com/Quarks-Leptons-Introductory-Particle-Physics/dp/0471887412">Halzen and Martin, Quarks and Leptons: An Introductory Course in Modern Particle Physics</a></li> 
+</ul>
+
+<h2>Physics Education on YouTube</h2>
+<ul>
+  <li><a href="http://www.youtube.com/user/1veritasium">Veritasium</a></li>
+  <li><a href="http://www.youtube.com/user/minutephysics">Minute Physics</a></li>
+  <li><a href="http://www.youtube.com/user/sixtysymbols">Sixty Symbols</a></li>
+</ul>
+
+</body>
+</html>
