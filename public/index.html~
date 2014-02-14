@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html version="-//W3C//DTD XHTML 1.1//EN"
+  xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<title>Information for the Public</title>
+<link rel="stylesheet" type="text/css" href="/css/style.css"/>
+<link rel="stylesheet" type="text/css" href="/css/style2.css"/>
+</head>
+<body>
+  <h1></h1>
+
+<div id="photobox"><img src="/images/cms_eeee.jpg" id="largephoto" alt="Event display from CMS."/>
+<div id="photocaption">(Source: CMS Public Event Displays)</div>
+</div>
+
+<h2>What is Particle Physics?</h2>
+
+<p>
+habt geduld.
+</p>
+
+
+</body>
+</html>

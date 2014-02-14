@@ -13,6 +13,19 @@
 <div id="photocaption">(Source: Ph.D. Comics)</div>
 </div>
 
+<!-- Navigation Bar -->
+<nav>
+<!--Begin an unordered list of primary content-->
+  <ul>
+    <li><a href="/index.html">Home</a></li>
+    <li><a href="/about/">About</a></li>
+    <li><a href="/mfeickert-CV.pdf">CV</a></li>
+    <li><a href="/research/">Research</a></li>
+    <li><a href="/teaching/">Teaching</a></li>
+    <li><a href="/public/">Public</a></li>
+    <li><a href="/extra/">Extra</a></li>
+  </ul>
+</nav>
 <h2>UVa Courses I've TA'd For</h2>
   <ul>
     <li><a href="phys-2630/2013-fall/phys_2630_Intro.pdf">PHYS 2630: Elementary Laboratory I</a>
