@@ -5,11 +5,11 @@
   xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 <head>
 <title> Resources for Learning Physics</title>
-<link rel="stylesheet" type="text/css" href="/~/index_files/style.css"/>
+<link rel="stylesheet" type="text/css" href="/css/style.css"/>
 </head>
 <body>
 
-<div id="photobox"><img src="/~mcf2uk/www/images/ta_shirt.jpg" id="largephoto" alt="Photo that makes a joke about TAing."/>
+<div id="photobox"><img src="/images/ta_shirt.jpg" id="largephoto" alt="Photo that makes a joke about TAing."/>
 <div id="photocaption">(Source: Ph.D. Comics)</div>
 </div>
 

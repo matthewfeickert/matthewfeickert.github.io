@@ -11,8 +11,8 @@
   <meta name="Description" content="Matthew Feickert, Matthew C. Feickert,
 Physics, homepage">
   <title> Matthew C. Feickert</title>
-  <link rel="stylesheet" type="text/css" href="./css/style.css"/>
-  <link rel="stylesheet" type="text/css" href="./css/style2.css"/>
+  <link rel="stylesheet" type="text/css" href="/css/style.css"/>
+  <link rel="stylesheet" type="text/css" href="/css/style2.css"/>
 <style type="text/css"></style></head>
 
 <body>
@@ -33,7 +33,7 @@ Physics, homepage">
 
 <h1><u>Matthew C. Feickert</u></h1>
 
-<div id="photobox"><img src="./images/head.jpg" id="photo" alt="Photo taken of Matthew Feickert at the Chicago Art Institute in 2011.">
+<div id="photobox"><img src="/images/head.jpg" id="photo" alt="Photo taken of Matthew Feickert at the Chicago Art Institute in 2011.">
 <div id="photocaption">(Matthew, c. 2011)</div>
 </div>
 
