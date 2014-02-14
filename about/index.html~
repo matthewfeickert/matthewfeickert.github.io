@@ -5,8 +5,8 @@
   xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 <head>
 <title> About</title>
-<link rel="stylesheet" type="text/css" href="/~mcf2uk/www/style.css"/>
-<link rel="stylesheet" type="text/css" href="/~mcf2uk/www/style2.css"/>
+<link rel="stylesheet" type="text/css" href="/style.css"/>
+<link rel="stylesheet" type="text/css" href="/style2.css"/>
 </head>
 <body>
 
@@ -14,13 +14,13 @@
 <nav>
 <!--Begin an unordered list of primary content-->
   <ul>
-    <li><a href="/~mcf2uk/www/">Home</a></li>
-    <li><a href="/~mcf2uk/www/about/">About</a></li>
-    <li><a href="/~mcf2uk/www/mfeickert-CV.pdf">CV</a></li>
-    <li><a href="/~mcf2uk/www/research/">Research</a></li>
-    <li><a href="/~mcf2uk/www/teaching/">Teaching</a></li>
-    <li><a href="/~mcf2uk/www/public/">Public</a></li>
-    <li><a href="/~mcf2uk/www/extra/">Extra</a></li>
+    <li><a href="www/">Home</a></li>
+    <li><a href="/about/">About</a></li>
+    <li><a href="/mfeickert-CV.pdf">CV</a></li>
+    <li><a href="/research/">Research</a></li>
+    <li><a href="/teaching/">Teaching</a></li>
+    <li><a href="/public/">Public</a></li>
+    <li><a href="/extra/">Extra</a></li>
   </ul>
 </nav>
 <h2>About</h2>
