@@ -2,7 +2,7 @@
   html {
 /*    background-color: honeydew; */
 /*    background-color: grey; */
-    background-image: url("../images/cloud_chamber.png");
+    background-image: url("/images/cloud_chamber.png");
     background-repeat: no-repeat;
     -moz-background-size: cover;
     background-size: cover; 
