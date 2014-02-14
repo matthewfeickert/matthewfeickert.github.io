@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+  <meta charset="utf-8"/>
+  <meta name="Description" CONTENT="LaTeX typography in physics"/>
+  <title>LaTeX Typography in Physics</title>
+  <link rel="stylesheet" type="text/css" href="/css/style.css"/>
+  <link rel="stylesheet" type="text/css" href="/css/style2.css"/>
+
+  <!-- Enable MathJax -->
+  <script type="text/javascript"
+    src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+</head>
+
+<body>
+  <h1>Suggestions on how to typeset different values in physics<h2>
+<p>To view the LaTeX commands for each typset variable, right click on the
+typeset and from the "Show Math As" menu select "TeX Commands".</p>
+<ul>
+  <li>Scalar potential: \(\varphi\)</li>
+  <li>azimuthal angle: \(\phi\)</li>
+  <li>surface differential: \(ds\)</li>
+  <li>volume differetial: \(d^3r\)</li>
+</ul>
+
+</body>
+</html>
