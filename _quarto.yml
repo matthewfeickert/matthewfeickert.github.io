@@ -4,7 +4,7 @@ project:
 website:
   title: "Matthew Feickert"
   site-url: https://matthewfeickert.github.io
-  description: "Software engineering, physics, mathematics, and machine learning."
+  description: "Thoughts on physics, scientific computing, machine learning, and coffee."
   navbar:
     right:
       - text: Blog

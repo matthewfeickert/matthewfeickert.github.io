@@ -3,4 +3,4 @@ title: "Matthew Feickert"
 toc: false
 ---
 
-Welcome. Posts on software engineering, physics, mathematics, and machine learning live on the [blog](blog.qmd).
+Thoughts on physics, scientific computing, machine learning, and coffee on the [blog](blog.qmd).
