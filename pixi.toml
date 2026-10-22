@@ -17,7 +17,7 @@ description = "Build and serve the website with Quarto, including draft posts"
 cmd = "quarto preview --profile drafts"
 
 [tasks.start]
-depends-on = ["preview"]
+depends-on = ["preview-drafts"]
 
 [dependencies]
 quarto = ">=1.9.38,<2"
