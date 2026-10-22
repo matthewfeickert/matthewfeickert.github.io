@@ -6,3 +6,8 @@
 ^https://www\.linkedin\.com/
 # Returns 403 to all scripted requests (AWS WAF), even for the homepage
 ^https://datascience\.wisc\.edu/
+# Returns 403 to all scripted requests while blocking the ongoing PHP2Shell vulnerability
+# (CVE-2026-109618 and CVE-2026-109619). This is temporary: remove this ignore once it is lifted.
+^https://dsi\.wisc\.edu/
+# EPJ Web of Conferences DOIs redirect to epj-conferences.org, which returns 403 to scripted requests
+^https://doi\.org/10\.1051/epjconf/
