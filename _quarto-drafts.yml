@@ -1,0 +1,4 @@
+# Profile that shows draft posts, for local preview only.
+# Used by `pixi run preview-drafts`. cf. https://quarto.org/docs/projects/profiles.html
+website:
+  draft-mode: visible

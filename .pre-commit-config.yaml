@@ -1,0 +1,32 @@
+repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v6.0.0
+    hooks:
+      - id: check-added-large-files
+      - id: check-case-conflict
+      - id: check-merge-conflict
+      - id: check-symlinks
+      - id: check-json
+      - id: check-yaml
+      - id: check-toml
+      - id: debug-statements
+      - id: end-of-file-fixer
+      - id: mixed-line-ending
+      - id: trailing-whitespace
+
+  - repo: https://github.com/codespell-project/codespell
+    rev: v2.4.3
+    hooks:
+      - id: codespell
+        args: ["--write-changes"]
+
+  # lychee-system runs the lychee from the Pixi lint environment, so keep rev in sync with pixi.toml
+  - repo: https://github.com/lycheeverse/lychee
+    rev: lychee-v0.24.2
+    hooks:
+      - id: lychee-system
+        # Its patterns are regexes, not links
+        exclude: ^\.lycheeignore$
+
+# Generated files: pixi.lock is written by Pixi and _freeze/ by Quarto
+exclude: ^(pixi\.lock|_freeze/.*)$

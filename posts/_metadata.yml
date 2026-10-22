@@ -1,0 +1,4 @@
+# Re-execute a post's code only when it is rendered locally and its source has changed.
+# The results are committed under _freeze/ so CI never has to run post code.
+# cf. https://quarto.org/docs/projects/code-execution.html#freeze
+freeze: auto

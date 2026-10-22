@@ -1,0 +1,24 @@
+project:
+  type: website
+
+website:
+  title: "Matthew Feickert"
+  site-url: https://matthewfeickert.github.io
+  description: "Thoughts on physics, scientific computing, machine learning, and coffee."
+  navbar:
+    right:
+      - text: Blog
+        href: blog.qmd
+      - icon: github
+        href: https://github.com/matthewfeickert
+      - icon: rss
+        href: blog.xml
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    html-math-method: katex
+    code-copy: true
+    toc: true

@@ -1,0 +1,40 @@
+[workspace]
+channels = ["conda-forge"]
+name = "matthewfeickert.github.io"
+platforms = ["linux-64", "osx-arm64"]
+version = "0.1.0"
+
+[tasks.render]
+description = "Build the website with Quarto"
+cmd = "quarto render"
+
+[tasks.preview]
+description = "Build and serve the website with Quarto"
+cmd = "quarto preview"
+
+[tasks.preview-drafts]
+description = "Build and serve the website with Quarto, including draft posts"
+cmd = "quarto preview --profile drafts"
+
+[tasks.start]
+depends-on = ["preview-drafts"]
+
+[dependencies]
+quarto = ">=1.9.38,<2"
+ipykernel = ">=7.4.0,<8"
+numpy = ">=2.5.4,<3"
+matplotlib = ">=3.11.2,<4"
+pyyaml = ">=6.0.3,<7"
+nbformat = ">=5.11.1,<6"
+nbclient = ">=0.11.0,<0.12"
+
+[feature.lint.dependencies]
+prek = ">=0.5.7,<0.6"
+lychee = ">=0.24.2,<0.25"
+
+[feature.lint.tasks.lint]
+description = "Run pre-commit hooks with prek"
+cmd = "prek run --all-files"
+
+[environments]
+lint = { features = ["lint"], no-default-feature = true }

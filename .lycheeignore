@@ -1,0 +1,8 @@
+# Sites that block automated requests, so lychee cannot check them.
+# Patterns are regular expressions matched against the full URL.
+# cf. https://lychee.cli.rs/recipes/excluding-links/
+
+# Returns 999 to all non-browser clients
+^https://www\.linkedin\.com/
+# Returns 403 to all scripted requests (AWS WAF), even for the homepage
+^https://datascience\.wisc\.edu/
