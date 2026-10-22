@@ -24,9 +24,10 @@ Matthew is a research scientist in experimental high energy physics and data sci
 
 ## Specialties
 
-- Python, C++
-- Data Analysis
-- Particle Physics with focus on high momentum states
+- Particle physics
+- Scientific open source software
+- Data analysis
+- Coffee exploration
 
 ## Blog
 

@@ -1,0 +1,14 @@
+---
+title: "Hello, world. Again."
+date: 2026-10-21
+categories: [meta]
+draft: false
+---
+
+Today I take another stab at actually writing a blog.
+This time I'm trying out [Quarto](https://quarto.org/) as I want to be able to have code, LaTeX-like mathematics and citations, and good support and [MyST](https://mystmd.org/) isn't _quite_ there yet.
+We'll see how this all goes and if I actually start to write again.
+
+## Disclosure
+
+To help get me over the time-hump of selecting a website platform and setting things up again I've used Claude Code's Opus 5.5 model to help scaffold Quarto.
