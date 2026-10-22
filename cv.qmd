@@ -1,0 +1,117 @@
+---
+title: "Curriculum Vitae"
+toc-depth: 2
+---
+
+The full CV is available as a [PDF](https://feickert.web.cern.ch/feickert-cv.pdf).
+
+## Education
+
+### Ph.D., Physics
+
+Southern Methodist University, Dallas, TX, USA · August 2014 to August 2019
+
+- Dissertation Advisor: Prof. [Stephen J. Sekula](https://steve.cooleysekula.net/)
+- Dissertation: [*A Search for Boosted Low Mass Resonances Decaying to the $b\bar{b}$ Final State and Produced in Association with a Jet at $\sqrt{s} = 13~\mathrm{TeV}$ with the ATLAS Detector*](https://cds.cern.ch/record/2690521?ln=en)
+
+### M.S., Physics
+
+Southern Methodist University, Dallas, TX, USA · August 2014 to December 2016
+
+### M.A., Physics
+
+University of Virginia, Charlottesville, VA, USA · August 2012 to December 2013
+
+### B.S., Engineering Physics; Mathematics Minor
+
+University of Illinois at Urbana-Champaign, Urbana, IL, USA · August 2007 to May 2012
+
+## Research Experience
+
+### Research Scientist
+
+University of Wisconsin--Madison, Madison, WI, USA · June 2024 to present
+
+[Data Science Institute](https://dsi.wisc.edu/), Institute for Research and Innovation in Software for High Energy Physics (IRIS-HEP), ATLAS Experiment. Principal Investigator: [Kyle Cranmer](https://dsi.wisc.edu/staff/cranmer-kyle/), Data Science Institute.
+
+- Data science applications for experimental high energy physics, data physicist
+- IRIS-HEP [Executive Board](https://iris-hep.org/about/executive-board) member
+- IRIS-HEP [Analysis Systems](https://iris-hep.org/as.html) Area Lead
+- Large model parameter scan of pMSSM analyses with the ATLAS detector
+- Analysis preservation, reuse, and reinterpretation for the ATLAS collaboration
+
+### Postdoctoral Research Associate
+
+University of Wisconsin--Madison, Madison, WI, USA · June 2022 to June 2024
+
+[Data Science Institute](https://dsi.wisc.edu/), Institute for Research and Innovation in Software for High Energy Physics (IRIS-HEP), ATLAS Experiment. Advising Principal Investigator: [Kyle Cranmer](https://dsi.wisc.edu/staff/cranmer-kyle/), Data Science Institute.
+
+- Data science applications for experimental high energy physics, data physicist
+- IRIS-HEP [Executive Board](https://iris-hep.org/about/executive-board) member
+- IRIS-HEP [Analysis Systems](https://iris-hep.org/as.html) Area Lead
+- Large model parameter scan of pMSSM analyses with the ATLAS detector
+- Search for resonant $HH$ production with the ATLAS detector
+- Analysis preservation, reuse, and reinterpretation for the ATLAS collaboration
+
+### Postdoctoral Research Associate
+
+University of Illinois at Urbana-Champaign, Urbana, IL, USA · August 2019 to June 2022
+
+ATLAS Experiment, Institute for Research and Innovation in Software for High Energy Physics (IRIS-HEP). Advising Principal Investigator: [Mark S. Neubauer](https://physics.illinois.edu/people/directory/profile/msn), Department of Physics.
+
+- Search for resonant $HH$ production with the ATLAS detector
+- Analysis preservation, reuse, and reinterpretation for the ATLAS collaboration
+- [Analysis Systems](https://iris-hep.org/as.html) for IRIS-HEP
+
+### Ph.D. Candidate
+
+Southern Methodist University, Dallas, TX, USA · January 2015 to August 2019
+
+High Energy Physics Group. Advising Professor: [Stephen J. Sekula](http://www.physics.smu.edu/sekula/), Department of Physics.
+
+- Search for low mass dark matter mediators at high $p_T$ in the $Z' \to b\bar{b}$ + ISR jet decay channel
+- Study of the Higgs cross-section at high $p_T$ in the $H \to b\bar{b}$ + ISR jet decay channel
+
+## Selected Papers, Notes, and Publications
+
+- Alexander Puck Neuwirth, Matthew Feickert, Lukas Heinrich, Eduardo Rodrigues, [*pylhe: A Lightweight Python interface to Les Houches Event files*](https://inspirehep.net/literature/3185261). Journal of Open Source Software, 11(126), 11128, Oct, 2026. DOI: [10.21105/joss.11128](https://doi.org/10.21105/joss.11128)
+- Claudius Krause, Ramon Winterhalder, Matthew Feickert, Benjamin Nachman, [*The Living Guide of Machine Learning for Particle Physics*](https://inspirehep.net/literature/3189205). Aug, 2026. arXiv:[2608.09531](https://arxiv.org/abs/2608.09531)
+- Jon Butterworth *et al.*, [*Reinterpretation and preservation of data and analyses in HEP*](https://inspirehep.net/literature/2906665). Apr, 2025. arXiv:[2504.00256](https://arxiv.org/abs/2504.00256)
+- Diego Ciangottini *et al.*, [*Analysis Facilities White Paper*](https://inspirehep.net/literature/2773393). Apr, 2024. arXiv:[2404.02100](https://arxiv.org/abs/2404.02100)
+- Marco Donadoni *et al.*, [*Scalable ATLAS pMSSM computational workflows using containerised REANA reusable analysis platform*](https://inspirehep.net/literature/2765789). Mar, 2024. DOI: [10.1051/epjconf/202429504035](https://doi.org/10.1051/epjconf/202429504035) arXiv:[2403.03494](https://arxiv.org/abs/2403.03494)
+- Matthew Feickert, Lukas Heinrich, Malin Horstmann, [*Bayesian Methodologies with pyhf*](https://inspirehep.net/literature/2704887). Sep, 2023. DOI: [10.1051/epjconf/202429506004](https://doi.org/10.1051/epjconf/202429506004) arXiv:[2309.17005](https://arxiv.org/abs/2309.17005)
+- Matthew Feickert, Daniel S. Katz, Mark S. Neubauer, Elizabeth Sexton-Kennedy, Graeme A. Stewart, [*Software Citation in HEP: Current State and Recommendations for the Future*](https://inspirehep.net/literature/2703030). Sep, 2023. DOI: [10.1051/epjconf/202429508017](https://doi.org/10.1051/epjconf/202429508017) arXiv:[2309.14571](https://arxiv.org/abs/2309.14571)
+- ATLAS Collaboration, [*Measurements of multijet event isotropies using optimal transport with the ATLAS detector*](https://inspirehep.net/literature/2663035). *JHEP* 10 (2023) 060. May, 2023. DOI: [10.1007/JHEP10(2023)060](https://doi.org/10.1007/JHEP10(2023)060) arXiv:[2305.16930](https://arxiv.org/abs/2305.16930)
+- Brian Bockelman, Peter Elmer, Gordon Watts *et al.*, [*IRIS-HEP Strategic Plan for the Next Phase of Software Upgrades for HL-LHC Physics*](https://inspirehep.net/literature/2628983). Feb, 2023. arXiv:[2302.01317](https://arxiv.org/abs/2302.01317)
+- Stephen Bailey, Kyle Cranmer, Matthew Feickert, Rob Fine, Sabine Kraml, Clemens Lange, [*Reinterpretation and Long-Term Preservation of Data and Code*](https://inspirehep.net/literature/2153139). Snowmass 2021 Computational Frontier CompF7 topical group report. Sep, 2022. arXiv:[2209.08054](https://arxiv.org/abs/2209.08054)
+- Gabriele Benelli *et al.*, [*Data Science and Machine Learning in Education*](https://inspirehep.net/literature/2116912). Contribution to [2022 Snowmass Summer Study](https://inspirehep.net/conferences/1803127). Jul, 2022. arXiv:[2207.09060](https://arxiv.org/abs/2207.09060)
+- Stephen Bailey *et al.*, [*Data and Analysis Preservation, Recasting, and Reinterpretation*](https://inspirehep.net/literature/2054747). Contribution to [2022 Snowmass Summer Study](https://inspirehep.net/conferences/1803127). Mar, 2022. arXiv:[2203.10057](https://arxiv.org/abs/2203.10057)
+- Kyle Cranmer *et al.*, [*Publishing statistical models: Getting the most out of particle physics experiments*](https://inspirehep.net/literature/1919763). *SciPost Phys.* 12, 037 (2022). Sep, 2021. DOI: [10.21468/SciPostPhys.12.1.037](https://doi.org/10.21468/SciPostPhys.12.1.037) arXiv:[2109.04981](https://arxiv.org/abs/2109.04981)
+- ATLAS Collaboration, [*Configuration and performance of the ATLAS $b$-jet triggers in Run 2*](https://inspirehep.net/literature/1867276). *Eur. Phys. J. C* **81**, 1087 (2021). Jun, 2021. DOI: [10.1140/epjc/s10052-021-09775-5](https://doi.org/10.1140/epjc/s10052-021-09775-5) arXiv:[2106.03584](https://arxiv.org/abs/2106.03584)
+- Lukas Heinrich, Matthew Feickert, Giordon Stark, Kyle Cranmer, [*pyhf: pure-Python implementation of HistFactory statistical models*](https://inspirehep.net/literature/1845084). Journal of Open Source Software, 6(58), 2823, Feb, 2021. DOI: [10.21105/joss.02823](https://doi.org/10.21105/joss.02823)
+- Matthew Feickert, Benjamin Nachman, [*A Living Review of Machine Learning for Particle Physics*](https://inspirehep.net/literature/1844751). Feb, 2021. arXiv:[2102.02770](https://arxiv.org/abs/2102.02770)
+- Daniel S. Katz *et al.*, [*Software Sustainability & High Energy Physics*](https://inspirehep.net/literature/1822229). Oct, 2020. DOI: [10.5281/zenodo.4082137](https://doi.org/10.5281/zenodo.4082137)
+- LHC Reinterpretation Forum Collaboration, [*Reinterpretation of LHC Results for New Physics: Status and Recommendations after Run 2*](https://inspirehep.net/literature/1785921). Mar, 2020. DOI: [10.21468/SciPostPhys.9.2.022](https://doi.org/10.21468/SciPostPhys.9.2.022)
+- ATLAS Collaboration, [*Reproducing searches for new physics with the ATLAS experiment through publication of full statistical likelihoods*](https://inspirehep.net/literature/1795223). Aug, 2019. CDS: [ATL-PHYS-PUB-2019-029](https://cds.cern.ch/record/2684863)
+- ATLAS Collaboration, [*Search for boosted resonances decaying to two $b$-quarks and produced in association with a jet at $\sqrt{s} = 13~\mathrm{TeV}$ with the ATLAS detector*](https://inspirehep.net/literature/1705606). Nov, 2018. CDS: [ATLAS-CONF-2018-052](https://cds.cern.ch/record/2649081)
+- K. Albertsson *et al.*, [*Machine Learning in High Energy Physics Community White Paper*](https://inspirehep.net/record/1681439/). 2018. arXiv:[1807.02876](https://arxiv.org/abs/1807.02876)
+
+## Selected Proceedings and Reports
+
+- KyungEon Choi *et al.*, [*Building a Columnar Analysis Demonstrator for ATLAS PHYSLITE Open Data using the Python Ecosystem*](https://inspirehep.net/literature/3065298). *27th International Conference on Computing in High Energy and Nuclear Physics (CHEP 2024)*, Oct, 2025. DOI: [10.1051/epjconf/202533701359](https://doi.org/10.1051/epjconf/202533701359)
+- Alexander Held *et al.*, [*The 200 Gbps Challenge: Imagining HL-LHC analysis facilities*](https://doi.org/10.1051/epjconf/202533701217). *27th International Conference on Computing in High Energy and Nuclear Physics (CHEP 2024)*, Oct, 2025. DOI: [10.1051/epjconf/202533701217](https://doi.org/10.1051/epjconf/202533701217)
+- Robert W. Gardner Jr. *et al.*, [*Operating the 200 Gbps IRIS-HEP Demonstrator for ATLAS*](https://inspirehep.net/literature/3065317). *27th International Conference on Computing in High Energy and Nuclear Physics (CHEP 2024)*, Oct, 2025. DOI: [10.1051/epjconf/202533701061](https://doi.org/10.1051/epjconf/202533701061)
+- Marco Donadoni *et al.*, [*Benchmarking massively-parallel Analysis Grand Challenge workflows using Snakemake and REANA*](https://inspirehep.net/literature/3065327). *27th International Conference on Computing in High Energy and Nuclear Physics (CHEP 2024)*, Oct, 2025. DOI: [10.1051/epjconf/202533701168](https://doi.org/10.1051/epjconf/202533701168)
+- Matthew Feickert, Ruben Arts, John Kirkham, [*Reproducible Machine Learning Workflows for Scientists with Pixi*](https://inspirehep.net/literature/3071594). *Proceedings of 24th International SciPy Conference --- SciPy 2025*, Jul, 2025. DOI: [10.25080/nwuf8465](https://doi.org/10.25080/nwuf8465)
+- Matthew Feickert *et al.*, [*How the Scientific Python ecosystem helps answer fundamental questions of the Universe*](https://inspirehep.net/literature/2837836). *Proceedings of 23rd International SciPy Conference --- SciPy 2024*, Jul, 2024. DOI: [10.25080/KMXN4784](https://doi.org/10.25080/KMXN4784)
+- Matthew Feickert, Lukas Heinrich, Giordon Stark, [*pyhf: a pure-Python statistical fitting library with tensors and automatic differentiation*](https://inspirehep.net/literature/2598491). *Proceedings of 41st International Conference on High Energy physics --- PoS(ICHEP 2022)* **414** (2022) 245, Nov, 2022. DOI: [10.22323/1.414.0245](https://doi.org/10.22323/1.414.0245) arXiv:[2211.15838](https://arxiv.org/abs/2211.15838)
+- Matthew Feickert, Mihir Katare, Mark Neubauer, Avik Roy, [*Deep Learning for the Matrix Element Method*](https://inspirehep.net/literature/2513684). *Proceedings of 41st International Conference on High Energy physics --- PoS(ICHEP 2022)* **414** (2022) 246, Nov, 2022. DOI: [10.22323/1.414.0246](https://doi.org/10.22323/1.414.0246) arXiv:[2211.11910](https://arxiv.org/abs/2211.11910)
+- S. Malik *et al.*, [*Software Training in HEP*](https://inspirehep.net/literature/1849307). *Computing and Software for Big Science* 5 (2021) 22, Oct, 2021. DOI: [10.1007/s41781-021-00069-9](https://doi.org/10.1007/s41781-021-00069-9) arXiv:[2103.00659](https://arxiv.org/abs/2103.00659)
+- M. Feickert, L. Heinrich, G. Stark, B. Galewsky, [*Distributed statistical inference with pyhf enabled through funcX*](https://inspirehep.net/literature/1849745). EPJ Web Conf. **251** (2021) 02070, Mar, 2021. DOI: [10.1051/epjconf/202125102070](https://doi.org/10.1051/epjconf/202125102070) arXiv:[2103.02182](https://arxiv.org/abs/2103.02182)
+- Matthew Feickert, Lukas Heinrich, Giordon Stark, [*Likelihood preservation and statistical reproduction of searches for new physics*](https://inspirehep.net/literature/1832190). EPJ Web Conf. **245** (2020) 0617, Nov, 2020. DOI: [10.1051/epjconf/202024506017](https://doi.org/10.1051/epjconf/202024506017)
+- E. Rodrigues *et al.*, [*The Scikit HEP Project --- overview and prospects*](https://inspirehep.net/literature/1805478). EPJ Web Conf. **245** (2020) 0628, Jul, 2020. DOI: [10.1051/epjconf/202024506028](https://doi.org/10.1051/epjconf/202024506028) arXiv:[2007.03577](https://arxiv.org/abs/2007.03577)
+- Matthew Feickert and John Alison, [*Performance of the ATLAS $b$-jet trigger in 2017 data at high pile-up*](https://twiki.cern.ch/twiki/bin/view/AtlasPublic/BJetTriggerPublicResults#Performance%20of%20the%20ATLAS%20b-j_AN1). Nov, 2017. CDS: [ATL-COM-DAQ-2017-182](https://cds.cern.ch/record/2294576)
+
+## Magazine and Online Articles
+
+- Matthew Feickert, [Extending ATLAS Physics Reach with Analysis Reuse Technology](https://ep-news-wp.web.cern.ch/extending-atlas-physics-reach-analysis-reuse-technology/). CERN EP Newsletter, March, 2024.

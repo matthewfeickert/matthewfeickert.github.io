@@ -7,6 +7,8 @@ website:
   description: "Thoughts on physics, scientific computing, machine learning, and coffee."
   navbar:
     right:
+      - text: CV
+        href: cv.qmd
       - text: Blog
         href: blog.qmd
       - icon: github
