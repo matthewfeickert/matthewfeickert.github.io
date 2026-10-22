@@ -1,0 +1,6 @@
+---
+title: "Matthew Feickert"
+toc: false
+---
+
+Welcome. Posts on software engineering, physics, mathematics, and machine learning live on the [blog](blog.qmd).
